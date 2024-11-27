@@ -70,7 +70,11 @@ body {
   align-items: center;
   gap: 25px;
 }
+.details{
 
+  text-decoration: none;
+  color: white;
+}
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
